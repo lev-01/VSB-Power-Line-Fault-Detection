@@ -1,0 +1,7 @@
+sklearn
+keras
+pyarrow
+pandas
+kaggle
+tqdm
+tensorflow==1.15.2
