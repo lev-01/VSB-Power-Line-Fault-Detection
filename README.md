@@ -1,4 +1,5 @@
 # VSB Power Line Fault Detection
+Link to the kaggle competition - https://www.kaggle.com/c/vsb-power-line-fault-detection.
 
 Partial discharge detection in power lines with LSTM neural network.
 
