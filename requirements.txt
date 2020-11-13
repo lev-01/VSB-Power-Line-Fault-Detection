@@ -4,4 +4,4 @@ pyarrow
 pandas
 kaggle
 tqdm
-tensorflow==1.15.2
+tensorflow==2.3.1
